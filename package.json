@@ -1,0 +1,23 @@
+{
+  "name": "catmeapp",
+  "version": "1.0.0",
+  "description": "This app shows you different Cats using ASCII Characters using cat-me npm package",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Khattech"
+  },
+  "keywords": [
+    "NODEJS",
+    "CAT-ME",
+    "NPM"
+  ],
+  "author": "SHIVAM KHATTRI",
+  "license": "ISC",
+  "dependencies": {
+    "cat-me": "^1.0.3"
+  }
+}
